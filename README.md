@@ -1,2 +1,2 @@
 # gold-store
-https://alexanderms00.github.io/gold-store/
+https://Vladislavms2002.github.io/gold-store/
